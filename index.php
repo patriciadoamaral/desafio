@@ -1,6 +1,8 @@
 <?php
-    include("includes/header.php");
-    include("includes/classifica_tickets.php");
+    include("header.php");
+    include("ticket.class.php");
+    $ticket = new Ticket();
+    $ticket->classificar();
 ?>
 
 <div class="container mt-2">
