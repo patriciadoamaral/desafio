@@ -1,6 +1,7 @@
 Olá!
 
-# PHP 7.4.3 (utilizei o xampp e programei localmente)
+# PHP 7.4.3 (xampp)
+# https://github.com/patriciadoamaral/desafio
 
 Para a resolução utilizei um plugin chamado datatables(https://datatables.net/), onde ele faz a leitura do arquivo Json e exibe em formato de tabela, com paginação, ordenação e busca.
 
